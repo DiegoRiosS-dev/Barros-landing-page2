@@ -2,7 +2,7 @@
 
 ## sobre o projeto:
 FEITO EM GRUPO 
-|  [<img src="https://avatars.githubusercontent.com/u/99925453?v=4" width=115><br><sub>Diego Rios Santos</sub>](https://github.com/DiegoRiosS-dev) | [<img src="https://avatars.githubusercontent.com/u/102266417?v=4" width=115><br><sub>José Augusto Pereira Morcelli</sub>](https://github.com/josemorcelli) |  [<img src="https://avatars.githubusercontent.com/u/100731829?v=4" width=115><br><sub>Marcio Emmanuel</sub>](https://github.com/M-Emmanuel-G) |
+|  [<img src="https://avatars.githubusercontent.com/u/99925453?v=4" width=115><br><sub>Diego Rios Santos</sub>](https://github.com/DiegoRiosS-dev) | [<img src="https://avatars.githubusercontent.com/u/102266417?v=4" width=115><br><sub>José Augusto Pereira Morcelli</sub>](https://github.com/josemorcelli) |  [<img src="https://avatars.githubusercontent.com/u/102323538?v=4" width=115><br><sub>Guilherme Oliveira</sub>](https://github.com/Gu1lherm3OM) |
 | :-----: | :-----: | :-----: |
 
 ```
